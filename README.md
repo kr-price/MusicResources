@@ -34,7 +34,7 @@ Here are some websites you can download VSTs from (I have done a quick verificat
 
 - ["New to Music Theory? Start here!" playlist by Signals Music Studio](https://www.youtube.com/playlist?list=PLTR7Cy9Sv2871cnw9sw6p968TL1JE8J3s)
 
-- ["Learn music theory in half an hour." by ANDREW HUANG](https://youtu.be/rgaTLrZGlk0?si=KcKtmOsEVmDOkC_h) (great rapid introduction of music theory concepts! this is one of the first videos I watched when I first started out)
+- ["Learn music theory in half an hour." by ANDREW HUANG](https://youtu.be/rgaTLrZGlk0?si=KcKtmOsEVmDOkC_h) *(great rapid introduction of music theory concepts! this is one of the first videos I watched when I first started out)*
 
 ### Text
 
